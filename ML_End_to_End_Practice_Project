@@ -1,0 +1,59 @@
+[33mcommit 8707cb07abbbcbbdc12635bc4bc00e6d1f723848[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Fri Aug 30 23:33:38 2024 +0530
+
+    Prediction Pipeline
+
+[33mcommit e09ba3a1a75dba85ed2e3ed28df01d8b9c07f045[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Fri Aug 30 20:22:56 2024 +0530
+
+    Hyperparameter Training
+
+[33mcommit 8325ace594f9a3b1583c61631b395f9fdc8db5c1[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Fri Aug 30 00:48:41 2024 +0530
+
+    Data Transformation Done
+
+[33mcommit 97958383319a365125a19bcc14f577f4eeb99cbe[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Thu Aug 29 01:12:36 2024 +0530
+
+    Data Ingestion
+
+[33mcommit 2c128f009ae5f7fe49ff603b8941a5aa2cfd59a6[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Thu Aug 29 00:27:00 2024 +0530
+
+    EDA and Problem Statement
+
+[33mcommit f9170c967b07693c84c4b777c21f8d7f378d9542[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Wed Aug 28 08:39:24 2024 +0530
+
+    exception
+
+[33mcommit 9c15c9887383b454bcc9e2f3038b4a8ff24111eb[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Wed Aug 28 01:17:15 2024 +0530
+
+    logging and exception
+
+[33mcommit 21df9d7f6d52eed529c7c1b49d527e671510fc04[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Wed Aug 28 00:29:22 2024 +0530
+
+    setup
+
+[33mcommit e710f7523ef8e5a241a8bb51a5f922540ad896d6[m
+Author: Nihal-Mevekari <nihalmevekari@gmail.com>
+Date:   Wed Aug 28 00:02:48 2024 +0530
+
+    Create .gitignore
+
+[33mcommit b127f09708c345531a9e86bc1aa425d17917deea[m
+Author: Nihal Mevekari <nihalmevekari@gmail.com>
+Date:   Tue Aug 27 23:55:08 2024 +0530
+
+    First commit
